@@ -1,2 +1,2 @@
-Efficient Self-supervised Low-pass Contrastive Graph Clustering with Non-convolution for Hyperspectral Images
-The complete code of "Efficient Self-supervised Low-pass Contrastive Graph Clustering with Non-convolution for Hyperspectral Images" will be uploaded after the paper is accepted.
+SLCGC: A lightweight Self-supervised Low-pass Contrastive Graph Clustering Network for Hyperspectral Images
+The complete code of "SLCGC: A lightweight Self-supervised Low-pass Contrastive Graph Clustering Network for Hyperspectral Images" .If you use this code, please cite the paper.
